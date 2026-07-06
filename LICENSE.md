@@ -1,4 +1,4 @@
-# 
+# Elite JetBrains IntelliJ IDEA predefinições para Mac OS | Personalizado JetBrains IntelliJ IDEA predefinições para PC Windows. Com helpers de autenticação e monitor de atividade — otimizado para máximo desempenho em cada plataforma.
 
 
 
